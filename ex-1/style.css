@@ -6,13 +6,11 @@
 }
 
 .ex-btn-warning {
-  color: white;
   background-color: crimson;
   border: 2px solid darkgreen;
 }
 
 .ex-btn-success {
-  color: white;
   background-color: seagreen;
   border: 2px solid green;
 }
@@ -21,4 +19,5 @@ button {
   border-radius: 5px;
   font-size: 18px;
   cursor: pointer;
+  color: white;
 }
